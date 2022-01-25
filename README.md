@@ -1,1 +1,1 @@
-# instagram-feed-css
+Instagram feed made with HTML and CSS.
