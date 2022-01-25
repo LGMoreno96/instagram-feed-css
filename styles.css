@@ -1,0 +1,51 @@
+body{
+    background: rgb(214, 214, 214);
+    margin: 0;
+    font-family: 'Readex Pro', sans-serif;
+}
+
+header{
+    background: white;
+}
+header h1{
+    margin: 0;
+    padding: 10px;
+}
+div.contenedor{
+    width: 600px;
+    margin: auto;
+}
+.post{
+    background: white;
+    margin-top: 50px;
+}
+div.post img{
+    width: 100%;
+}
+.top{
+    display: flex;
+}
+div.top h2{
+    width: 80%;
+    margin: 5px;
+}
+div.top p{
+    align-items: center;
+    text-align: right;
+    margin: 5px;
+    padding: 15px;
+    color: rgb(196, 196, 196);
+}
+div.post .top div:first-child{
+    width: 80%;
+    
+}
+div.post .top div:last-child{
+    width: 20%;
+}
+div.post h2, .descripcion{
+    padding: 10px;
+}
+.descripcion{
+    margin: 5px 10px 10px 10px;
+}
